@@ -1,0 +1,2 @@
+sudo /opt/anaconda/envs/Python3/bin/python /project/nlp-etl-demo/scripts/ingest_tweets.py &> ../logs/pipeline.log
+sudo /opt/anaconda/envs/Python3/bin/python /project/nlp-etl-demo/scripts/sentiment_analysis.py &> ../logs/pipeline.log

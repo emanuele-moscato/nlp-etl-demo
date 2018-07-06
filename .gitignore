@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.secret
+app/__pycache__
+input/tweets.csv
+logs/pipeline.log
+output/tweets_with_sentiment.csv
